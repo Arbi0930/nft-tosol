@@ -1,7 +1,13 @@
 # Random Image Generator
-JS TypeScript /env
+```
+npm run randos Javascript Typescript
+
+Test ийн сан svg 
+"http://www.w3.org/2000/svg
+```
+
 ## Usage
 
 ```
-Шутис-ийн оюуны өмч болно ашгийн төлөө ашиглаж болохгүй
+Шутисны оюуны өмч болно ашгийн төлөө ашиглахгүй байх
 ```
